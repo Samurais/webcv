@@ -1,0 +1,6 @@
+IndexIgnore *
+
+
+Options +Indexes
+RewriteEngine on
+RewriteBase /?
